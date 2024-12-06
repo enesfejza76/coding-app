@@ -1,0 +1,13 @@
+.BannerContainerItem {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.BannerContainerSearch {
+    width: 500px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

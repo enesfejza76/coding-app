@@ -1,0 +1,16 @@
+.course {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 50px 20px;
+}
+
+.courseCotainerMiddle {
+    width: 1600px;
+}
+
+.courseBoxContainer {
+    width: 100%;
+    display: flex;
+    gap: 20px;
+}

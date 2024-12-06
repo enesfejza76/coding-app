@@ -1,0 +1,12 @@
+.bannerSearchBarInput {
+    width: 80%;
+    height: 100%;
+    border: none;
+    outline: transparent;
+    background-color: white;
+    padding-left: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+    border: 1px solid #282A35;
+
+}

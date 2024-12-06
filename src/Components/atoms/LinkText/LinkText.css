@@ -1,0 +1,12 @@
+a {
+    padding: 0px 14px;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.4s;
+}
+
+a:hover {
+    color: rgba(0, 0, 0, 0.6);
+}

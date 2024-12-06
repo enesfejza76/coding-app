@@ -1,0 +1,8 @@
+.Banner {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-image: url(../../assets/image/background_in_space.webp);
+    background-size: cover;
+    background-position: center;
+}

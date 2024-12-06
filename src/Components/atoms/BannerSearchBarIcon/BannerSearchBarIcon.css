@@ -1,0 +1,16 @@
+.bannerSearchBarIcon {
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #04AA6D;
+    border: none;
+    outline: transparent;
+    color: white;
+    font-size: 17px;
+    border: 1px solid #282A35;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    cursor: pointer;
+}
